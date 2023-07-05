@@ -1352,62 +1352,42 @@
         }
       ],
       "status": "OK",
-      "demographic info": "high population of young people & high interest in locally grown foods & food desert",
+      "demographic info": "high number of people with children",
       "common_items": {
-        "fresh_produce": [
-          "lettuce",
-          "tomatoes",
+        "vegetables": [
           "carrots",
-          "cucumbers",
-          "spinach"
-        ],
-        "locally_grown_fruits": [
-          "apples",
-          "berries",
-          "peaches",
-          "watermelons",
-          "grapes"
-        ],
-        "locally_grown_vegetables": [
-          "kale",
-          "zucchini",
+          "broccoli",
+          "spinach",
           "bell peppers",
-          "radishes",
-          "green beans"
+          "tomatoes"
         ],
-        "herbs": ["basil", "cilantro", "mint", "parsley", "thyme"],
-        "organic_products": ["organic eggs", "organic milk", "organic grains"],
-        "plant-based_proteins": [
-          "tofu",
-          "tempeh",
-          "chickpeas",
-          "lentils",
-          "quinoa"
+        "fruits": ["apples", "bananas", "strawberries", "oranges", "grapes"],
+        "dairy": ["milk", "cheese", "yogurt", "butter", "eggs"],
+        "grains": ["bread", "rice", "pasta", "oatmeal", "cereal"],
+        "meat": ["chicken", "beef", "pork", "sausages", "ground beef"],
+        "snacks": ["chips", "crackers", "pretzels", "popcorn", "granola bars"],
+        "beverages": ["juice", "milk", "water", "soda", "sports drinks"],
+        "baby_items": [
+          "diapers",
+          "baby food",
+          "baby wipes",
+          "formula",
+          "baby lotion"
         ],
-        "whole_grains": ["brown rice", "quinoa", "oats", "barley", "bulgur"],
-        "natural_snacks": [
-          "nuts",
-          "dried fruits",
-          "granola bars",
-          "kale chips"
+        "cleaning_supplies": [
+          "dish soap",
+          "laundry detergent",
+          "paper towels",
+          "cleaning wipes",
+          "bathroom cleaner"
         ],
-        "locally_made_products": ["honey", "jams", "sauces", "salsa"],
-        "nut_butters": ["peanut butter", "almond butter", "cashew butter"],
-        "locally_baked_goods": [
-          "artisan bread",
-          "muffins",
-          "pastries",
-          "cookies"
-        ],
-        "cold_pressed_juices": ["green juices", "fruit juices", "detox blends"],
-        "gluten-free_options": [
-          "gluten-free pasta",
-          "gluten-free bread",
-          "quinoa flour"
-        ],
-        "plant-based_milk": ["almond milk", "oat milk", "soy milk"],
-        "snack_bars": ["energy bars", "protein bars", "fruit bars"],
-        "meal_kits": ["pre-portioned meal kits", "ready-to-cook meals"]
+        "personal_care": [
+          "toothpaste",
+          "shampoo",
+          "soap",
+          "deodorant",
+          "body lotion"
+        ]
       }
     },
     {
@@ -4418,66 +4398,48 @@
         }
       ],
       "status": "OK",
-      "demographic info": "high Jewish population & high vegetarian population & lots of local farmers",
+      "demographic info": "high number of people with children and high Korean population",
       "common_items": {
-        "grains": ["quinoa", "barley", "buckwheat", "oats", "wild rice"],
-        "legumes": [
-          "lentils",
-          "chickpeas",
-          "black beans",
-          "kidney beans",
-          "soybeans"
+        "vegetables": ["kimchi", "cabbage", "spinach", "zucchini", "radish"],
+        "fruits": ["apples", "pears", "grapes", "persimmons", "watermelons"],
+        "dairy": ["milk", "yogurt", "cheese", "butter", "eggs"],
+        "grains": ["rice", "noodles", "ramen", "rice cakes", "barley"],
+        "meat": ["beef", "pork", "chicken", "duck", "ribs"],
+        "seafood": ["anchovies", "shrimp", "squid", "mackerel", "oysters"],
+        "snacks": [
+          "rice cakes",
+          "seaweed snacks",
+          "peanut puffs",
+          "sweet rice crackers",
+          "almond snacks"
         ],
-        "vegetables": ["spinach", "kale", "broccoli", "cauliflower", "carrots"],
-        "fruits": ["apples", "bananas", "oranges", "strawberries", "avocados"],
-        "nuts_and_seeds": [
-          "almonds",
-          "walnuts",
-          "sunflower seeds",
-          "flaxseeds",
-          "chia seeds"
+        "beverages": [
+          "green tea",
+          "barley tea",
+          "soju",
+          "fruit juices",
+          "citron tea"
         ],
-        "dairy_alternatives": [
-          "soy milk",
-          "almond milk",
-          "oat milk",
-          "coconut milk",
-          "cashew cheese"
+        "baby_items": [
+          "diapers",
+          "baby food",
+          "baby wipes",
+          "formula",
+          "baby lotion"
         ],
-        "plant-based_protein_sources": [
-          "tofu",
-          "tempeh",
-          "seitan",
-          "plant-based burgers",
-          "legume-based meat substitutes"
+        "condiments": [
+          "soy sauce",
+          "gochujang",
+          "sesame oil",
+          "doenjang",
+          "kimchi paste"
         ],
-        "organic_produce": [
-          "organic tomatoes",
-          "organic lettuce",
-          "organic cucumbers",
-          "organic bell peppers",
-          "organic berries"
-        ],
-        "locally_grown_products": [
-          "local honey",
-          "farm-fresh eggs",
-          "artisanal bread",
-          "handcrafted cheeses",
-          "locally roasted coffee"
-        ],
-        "gluten-free_products": [
-          "gluten-free pasta",
-          "gluten-free bread",
-          "gluten-free flour",
-          "gluten-free snacks",
-          "gluten-free cereals"
-        ],
-        "vegan_snacks": [
-          "hummus",
-          "guacamole",
-          "kale chips",
-          "vegan protein bars",
-          "nut butter"
+        "household_supplies": [
+          "paper towels",
+          "dish soap",
+          "laundry detergent",
+          "cleaning wipes",
+          "toilet paper"
         ]
       }
     },
